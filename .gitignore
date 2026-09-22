@@ -1,4 +1,4 @@
 __pycache__/
 .venv/
-Training_Quizz.xlsx
-Draft_Training_Quizz.xlsx
+*.xlsx
+
